@@ -107,6 +107,6 @@ background: #EDCD2A;
 background: -webkit-linear-gradient(right, #EDCD2A, #EAE16B);
 background: -moz-linear-gradient(right, #EDCD2A, #EAE16B);
 background: linear-gradient(to left, #EDCD2A, #EAE16B);
-  border: 2px solid linear-gradient(right, #EDCD2A, #EAE16B)
+  border: 2px solid linear-gradient(right, #EDCD2A, #EAE16B);
   
 }
