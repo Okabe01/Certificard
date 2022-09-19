@@ -1,7 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
-/assets/css/style.scss
-
 body {
   background: linear-gradient(236.85deg, #041832 27.26%, #3468a7 96.03%);
   font-family: Montserrat; sans-seriff;
@@ -19,18 +17,14 @@ body {
   display:flex;
   justify-content: space-between;
 }
-
 .perfil {
   display:flex;
-
 }  
-  
 .perfil-foto {
   border-radius: 460px;
   max-width: 158px;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
-
 .titulo {
   margin-left: 16px;
 }
@@ -61,7 +55,7 @@ body {
   overflow-y: scroll;
   display:flex;
   flex-direction: column;
-  background: linear-gradient(230.65deg, #499CFE 27.49%,     #9CC8FC 83.19%);
+  background: linear-gradient(230.65deg, #499CFE 27.49%,  #9CC8FC 83.19%);
   box-shadow: 2px 2px 4px rgba(16, 16, 16, 0.42);
   border-radius: 20px;
   margin-top: 25px;
@@ -95,16 +89,15 @@ background: #EDCD2A;
 background: -webkit-linear-gradient(right, #EDCD2A, #EAE16B);
 background: -moz-linear-gradient(right, #EDCD2A, #EAE16B);
 background: linear-gradient(to left, #EDCD2A, #EAE16B);
-  color: black;
+color: black;
 
 }
 
 .dark .tema button {
-  /* Created with https://www.css-gradient.com */
 background: #EDCD2A;
 background: -webkit-linear-gradient(right, #EDCD2A, #EAE16B);
 background: -moz-linear-gradient(right, #EDCD2A, #EAE16B);
 background: linear-gradient(to left, #EDCD2A, #EAE16B);
-  border: 2px solid linear-gradient(right, #EDCD2A, #EAE16B);
+border: 2px solid linear-gradient(right, #EDCD2A, #EAE16B);
   
 }
